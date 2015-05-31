@@ -7,6 +7,7 @@ version 0.11.1.
 
 * Install rvm and ruby with rvm
 * Install compass (assume the rvm ruby and gemset are properly setup)
+
         gem install compass
 
 ## Build & development
